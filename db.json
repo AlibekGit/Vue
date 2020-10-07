@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "image": "1.jpeg",
+      "name" : "Adidas pro Box",
+      "price": 1500,
+      "article": "191",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name" : "Adidas ultra Skate",
+      "price": 1990,
+      "article": "192",
+      "available": true
+    },
+    {
+      "image": "3.jpeg",
+      "name" : "Adidas classic",
+      "price": 2350,
+      "article": "193",
+      "available": false
+    },
+    {
+      "image": "4.jpg",
+      "name" : "Michal Jordan y1992",
+      "price": 5500,
+      "article": "194",
+      "available": true
+    },
+    {
+      "image": "5.jpeg",
+      "name" : "Puma UltraCore",
+      "price": 1290,
+      "article": "195",
+      "available": true
+    },
+    {
+      "image": "6.jpg",
+      "name" : "Puma Basketball Edition",
+      "price": 1890,
+      "article": "196",
+      "available": true
+    },
+    {
+      "image": "6.jpg",
+      "name" : "Puma Cool Edition",
+      "price": 2990,
+      "article": "197",
+      "available": true
+    }
+  ]
+}
